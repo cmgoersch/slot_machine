@@ -16,8 +16,8 @@ export function Wheel() {
   symbolElement.textContent = symbols[symbolIndex];
 
   function maybeChoke() {
-    if (Math.random() <= turns / 6000) {
-      symbolElement.textContent = "💥";
+    if (Math.random() <= turns / 5000) {
+      symbolElement.textContent = "💣";
       throw new Error("Choked");
     }
   }
