@@ -1,5 +1,9 @@
 # Slot Machine 🎰
 
+# Live preview:
+
+## https://slot-machine-rosy.vercel.app/
+
 ## Task
 
 Follow the instructions in the `index.js` file to create a slot machine game.
@@ -26,7 +30,3 @@ You can then use the following command:
 
 Use the Live Preview Extension for Visual Studio Code to view this project in the browser.  
 Select the HTML file you want to view, press <kbd>⇧</kbd><kbd>⌘</kbd><kbd>P</kbd>, search for `Live Preview: Show Preview` and confirm with <kbd>Enter</kbd>.
-
-Live preview:
-
-https://vercel.com/new/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=slot-machine-92dzoqza3-cmgoersch.vercel.app&projectName=slot-machine&s=https%3A%2F%2Fgithub.com%2Fcmgoersch%2Fslot_machine&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1
